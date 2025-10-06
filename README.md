@@ -9,6 +9,10 @@
 6. Wait for 15 minutes
 7. You can now claim the reward in User Settings -> Gift Inventory!
 
+> [!NOTE]
+> If you can't paste anything on console, type "allow pasting" and press enter
+<br>
+
 ```javascript
 delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
