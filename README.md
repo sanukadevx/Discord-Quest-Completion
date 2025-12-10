@@ -179,7 +179,7 @@ if(!quest) {
 3. Open the file with any text editor.
 4. Add following codeline.
 ```javascript
- "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,
+ "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true
 ```
 4. Save & Relauch the discord client.
 
