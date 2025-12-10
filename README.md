@@ -174,9 +174,10 @@ if(!quest) {
 
 ### If you are facing troubles opening Devtools console,
 
-1. Find "settings.json" file of discord located in C:\Users\YourUser\AppData\Roaming\discord
-2. Open the file with any text editor.
-3. Add following codeline.
+1. Enable Developer Mode on discord. (Settings -> Advanced)
+2. Find "settings.json" file of discord located in C:\Users\YourUser\AppData\Roaming\discord
+3. Open the file with any text editor.
+4. Add following codeline.
 ```javascript
  "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,
 ```
